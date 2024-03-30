@@ -60,6 +60,6 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Author
 
-- [Your Name](https://github.com/korobov-alex)
+- [Korobov Oleksandr](https://github.com/korobov-alex)
 
 Feel free to reach out with any questions or feedback!
